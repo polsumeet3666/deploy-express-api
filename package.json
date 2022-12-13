@@ -19,7 +19,7 @@
 	},
 	"homepage": "https://github.com/polsumeet3666/deploy-express-api#readme",
 	"dependencies": {
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"serve": "^11.3.2"
 	}
 }
